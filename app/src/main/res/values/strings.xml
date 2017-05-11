@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="demo">
+
+        <item>Check All</item>
+        <item>avergers</item>
+        <item>Top Hat</item>
+        <item>Five Years</item>
+        <item>Prison break</item>
+        <item>Five Man</item>
+    </string-array>
+</resources>
